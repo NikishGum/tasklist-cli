@@ -3,6 +3,11 @@
 
 This projects represents simple __CLI Task List__ appliction using pure Golang, without any frameworks or external libraries
 
+## To-Do List to this project
+ - [ ] Think about how to handle exceptions like a reasonable person
+ - [ ] Fix bugs and inconsistencies that I found while I was writing this *README* file   
+ - [ ] Think about how can i improve this project 
+
 ## Installation
 
 Using *git clone*:
